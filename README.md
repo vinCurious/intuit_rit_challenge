@@ -12,7 +12,6 @@ VendorList.java: Source file for individualreports.jar
 WriteUpBonus.txt:  write up of the rationale used to determine the measure to determine people’s compatibility
 			
 How to run the program:
-
 	1. Download finalchart.jar, individualreports.jar and transaction-data.zip files
 	2. Unzip rit-challenge-master.zip file
 	3. Run the finalchart.jar file
