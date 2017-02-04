@@ -30,6 +30,7 @@ Also, total earnings vs total expenses comparison to get additional information 
 analyzing the trend. I used this rationale collectively to determine the people’s compatibility.
 
 Steps:
+
 1. Extracted all information for a specific user
 2. Calculated Total Earnings, Total Expenses, Total risky expenses, Total healthy expenses, and relationship struggle information
 3. Undesirable amount of expenses at bars, clubs, etc. comes under risky expenses which can cause affect relationship in bad way
