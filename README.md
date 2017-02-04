@@ -9,7 +9,7 @@ rit-challenge-master.zip: dataset of 100 users
 FinalChart.java: Source file for finalchart.jar
 User.java: represents user class
 VendorList.java: Source file for individualreports.jar
-BonusWriteUp.txt:  write up of the rationale used to determine the measure to determine people’s compatibility
+WriteUpBonus.txt:  write up of the rationale used to determine the measure to determine people’s compatibility
 			
 How to run the program:
 
