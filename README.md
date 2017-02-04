@@ -13,7 +13,7 @@ Files in this directory:
 			
 How to run the program:
 
-	1. Download finalchart.jar, individualreports.jar and transaction-data.zip files
+	1. Download finalchart.jar, individualreports.jar and rit-challenge-master.zip files
 	2. Unzip rit-challenge-master.zip file
 	3. Run the finalchart.jar file
 	4. Select particular file directory in which user files are extracted
