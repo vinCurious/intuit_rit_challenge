@@ -49,6 +49,7 @@ i.e. they are spending more on healthy activities which strenghten the relations
 3. Bubble size shows total expenses value for a user. People with more expenses than their earnings are also more likely to struggle in a relationship, but there are some outliers here in provided data.
 
 Suggestions:
+
 1. People should spend on the healthy actvities like art, craft, painting, music, visiting museums, playing instruments, etc. 
 This helps in bonding and strenghtening the relationship.
 2. Unhealthy lifestyle like visiting clubs, bars on regular basis and spending a lot of money can affect the relationship.
