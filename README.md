@@ -40,12 +40,9 @@ Steps:
 7. Plotted that against Total earnings using Google chart
 
 Interpretations from FinalChart.html
-1. Red colored bubble shows user is undergoing relationship struggle
-- We can see from the final chart that all these users have low (Healthy-Risky) expense value
-i.e. they are spending a lot in undesirable activities than healthy activities which strenghten the relationship
-2. Blue colored bubble shows user is not undergoing relationship struggle
-- We can see from the final chart that all these users have high (Healthy-Risky) expense value
-i.e. they are spending more on healthy activities which strenghten the relationship that undesirable ones
+
+1. Red colored bubble shows user is undergoing relationship struggle - We can see from the final chart that all these users have low (Healthy-Risky) expense value i.e. they are spending a lot in undesirable activities than healthy activities which strenghten the relationship
+2. Blue colored bubble shows user is not undergoing relationship struggle - We can see from the final chart that all these users have high (Healthy-Risky) expense value i.e. they are spending more on healthy activities which strenghten the relationship that undesirable ones
 3. Bubble size shows total expenses value for a user. People with more expenses than their earnings are also more likely to struggle in a relationship, but there are some outliers here in provided data.
 
 Suggestions:
