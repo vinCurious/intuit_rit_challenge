@@ -106,6 +106,7 @@ public class VendorListTest {
 		int count = 0;
 		File[] files = fd.listFiles();
 		for (File f : files) {
+			if(f.getName().contains(".csv")){
 			double creditsCount = 0;
 			double divCount = 0;
 			br1 = new BufferedReader(new FileReader(f));
@@ -185,6 +186,7 @@ public class VendorListTest {
 			creditsCount = 0;
 			divCount = 0;
 			br1.close();
+			}
 		}
 	}
 }
