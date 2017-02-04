@@ -1,8 +1,8 @@
 # intuit_rit_challenge
 intuit-recruiting/rit-challenge
-(Vinay Vasant More)-https://github.com/vincurious
 --------------------------------------------------------------------------------------
 Files in this directory:
+
 finalchart.jar: executable file which will generate final chart report
 individualreports.jar: executable file which generates individual html reports
 transaction-data.zip: dataset of 100 users
@@ -12,6 +12,7 @@ VendorList.java: Source file for individualreports.jar
 BonusWriteUp.txt:  write up of the rationale used to determine the measure to determine people’s compatibility
 			
 How to run the program:
+
 	1. Download finalchart.jar, individualreports.jar and transaction-data.zip files
 	2. Unzip trasanction-data.zip file
 	3. Run the finalchart.jar file
