@@ -3,13 +3,13 @@ intuit-recruiting/rit-challenge
 --------------------------------------------------------------------------------------
 Files in this directory:
 
-finalchart.jar: executable file which will generate final chart report
-individualreports.jar: executable file which generates individual html reports
-rit-challenge-master.zip: dataset of 100 users
-FinalChart.java: Source file for finalchart.jar
-User.java: represents user class
-VendorList.java: Source file for individualreports.jar
-WriteUpBonus.txt:  write up of the rationale used to determine the measure to determine people’s compatibility
+1. finalchart.jar: executable file which will generate final chart report
+2. individualreports.jar: executable file which generates individual html reports
+3. rit-challenge-master.zip: dataset of 100 users
+4. FinalChart.java: Source file for finalchart.jar
+5. User.java: represents user class
+6. VendorList.java: Source file for individualreports.jar
+7. WriteUpBonus.txt:  write up of the rationale used to determine the measure to determine people’s compatibility
 			
 How to run the program:
 
