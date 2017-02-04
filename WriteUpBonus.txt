@@ -1,8 +1,9 @@
-Rationale used to determine the measure for people’s compatibility:
+Rationale used to determine the measure for peopleâ€™s compatibility:
+
 Users who spend money on healthy activities than unhealthy activities are more likely to have
 good compatibility with their partner hence, less relationship struggle.
-Also, total earnings vs total expenses comparison to get additional information which will help increasing
-analyzing the trend. I used this rationale collectively to determine the people’s compatibility.
+Also, total earnings vs total expenses comparison to get additional information which will help in
+analyzing the trend. I used this rationale collectively to determine the peopleâ€™s compatibility.
 
 Steps:
 1. Extracted all information for a specific user
