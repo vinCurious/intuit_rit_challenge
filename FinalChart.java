@@ -57,7 +57,7 @@ public class FinalChart {
 	void createHTMLReport(String visualizationString) {
 		try {
 			BufferedWriter bw = new BufferedWriter(new FileWriter("FinalChart.html"));
-			//Reference: Used Google Chart below - API https://developers.google.com/chart/
+			//Reference: Used Google Chart API below - https://developers.google.com/chart/
 			bw.write(
 					"<html><head><script type=\"text/javascript\" src=\"https://www.gstatic.com/charts/loader.js\"></script><script type=\"text/javascript\">"
 							+ "google.charts.load('current', {'packages':['corechart']});google.charts.setOnLoadCallback(drawSeriesChart);function drawSeriesChart(){var data ="
