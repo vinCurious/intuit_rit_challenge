@@ -70,6 +70,7 @@ public class VendorListTest {
 	static void createHTMLReport(String name, String vendString, double earnings, double expenses, String div) {
 		try {
 			BufferedWriter bw = new BufferedWriter(new FileWriter(name + ".html"));
+			//Reference: Used Google Chart API below https://developers.google.com/chart/
 			bw.write("<html><head>"
 					+ "<script type=\"text/javascript\" src=\"https://www.gstatic.com/charts/loader.js\"></script>"
 					+ "<script type=\"text/javascript\">"
