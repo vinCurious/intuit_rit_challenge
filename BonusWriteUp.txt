@@ -1,0 +1,29 @@
+Rationale used to determine the measure for people’s compatibility:
+Users who spend money on healthy activities than unhealthy activities are more likely to have
+good compatibility with their partner hence, less relationship struggle.
+Also, total earnings vs total expenses comparison to get additional information which will help increasing
+analyzing the trend. I used this rationale collectively to determine the people’s compatibility.
+
+Steps:
+1. Extracted all information for a specific user
+2. Calculated Total Earnings, Total Expenses, Total risky expenses, Total healthy expenses, and relationship struggle information
+3. Undesirable amount of expenses at bars, clubs, etc. comes under risky expenses which can cause affect relationship in bad way
+4. Healthy Expenses - Expenses which are made in some activities which actually helps in increasing the compatibility between partners
+5. Relationship Struggle - Based on expenses made at divorce lawyer fees, etc. which actually shows user is undergoing a relationship struggle
+6. Calculated (Healthy-Risky) expenses amount
+7. Plotted that against Total earnings using Google chart
+
+Interpretations from FinalChart.html
+1. Red colored bubble shows user is undergoing relationship struggle
+- We can see from the final chart that all these users have low (Healthy-Risky) expense value
+i.e. they are spending a lot in undesirable activities than healthy activities which strenghten the relationship
+2. Blue colored bubble shows user is not undergoing relationship struggle
+- We can see from the final chart that all these users have high (Healthy-Risky) expense value
+i.e. they are spending more on healthy activities which strenghten the relationship that undesirable ones
+3. Bubble size shows total expenses value for a user. People with more expenses than their earnings are also more likely to struggle in a relationship, but there are some outliers here in provided data.
+
+Suggestions:
+1. People should spend on the healthy actvities like art, craft, painting, music, visiting museums, playing instruments, etc. 
+This helps in bonding and strenghtening the relationship.
+2. Unhealthy lifestyle like visiting clubs, bars on regular basis and spending a lot of money can affect the relationship.
+3. Anazlye the earnings vs expenses data on monthly basis to alert yourself about your recent spendings and lifestyle.
