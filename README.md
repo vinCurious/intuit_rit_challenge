@@ -52,3 +52,4 @@ Suggestions:
 This helps in bonding and strenghtening the relationship.
 2. Unhealthy lifestyle like visiting clubs, bars on regular basis and spending a lot of money can affect the relationship.
 3. Anazlye the earnings vs expenses data on monthly basis to alert yourself about your recent spendings and lifestyle.
+
